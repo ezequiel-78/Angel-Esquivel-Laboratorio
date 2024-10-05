@@ -1,6 +1,6 @@
 /*Estilo para todo el documento*/
 body {
-	background: #1EB0D7;
+background: #1EB0D7;
 	font-family: Tahoma;
 	font-size: 11px;
 	width: 1200px;
@@ -9,11 +9,11 @@ body {
 
 /*Estilo para la imagen arriba*/
 #logo {
-background: url(logo.png) no-repeat right;
-margin: 0 0px;
-background-size: 60%;
-padding: 25em 0em 5em 0em;
-text-transform: uppercase;
+	background: url(logo.png) no-repeat right;
+	margin: 0 0px;
+	background-size: 60%;
+	padding: 25em 0em 5em 0em;
+	text-transform: uppercase;
 }
 
 /*Estilo para la etiqueta incluida en H1*/
